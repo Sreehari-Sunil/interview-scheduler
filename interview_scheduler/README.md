@@ -1,6 +1,6 @@
 # CSV Uploader API
 
-This project provides an API to upload a CSV file, validate the content of each row, and save valid records into a database. The validation checks include:
+This project provides an API for scheduling interview easily based on the availability of candidate and interviewer:
 
 1. API for candidates/interviewers to register their available time slots
 2. API which will return interview schedulable time slots as a list which will
