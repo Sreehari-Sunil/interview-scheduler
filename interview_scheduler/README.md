@@ -10,8 +10,7 @@ take candidate id and interviewer id as input.
 
 Follow these steps to set up the project locally:
 1. Clone project from the github link:
-
-
+  https://github.com/Sreehari-Sunil/interview-scheduler.git
 2. Create and activate a virtual environment (if you haven't already):
 
 For macOS/Linux:
