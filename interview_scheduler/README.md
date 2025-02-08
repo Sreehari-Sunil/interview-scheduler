@@ -1,4 +1,4 @@
-# CSV Uploader API
+# INTERVIEW SCHEDULER
 
 This project provides an API for scheduling interview easily based on the availability of candidate and interviewer:
 
